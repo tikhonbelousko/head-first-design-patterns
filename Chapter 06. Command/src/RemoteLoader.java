@@ -7,8 +7,7 @@ public class RemoteLoader {
         Command ceilingFanOnCommand = new CeilingFanMediumOnCommand(ceilingFan);
         Command ceilingOffCommand = new CeilingFanOffCommand(ceilingFan);
 
-
-        Light light = new Light("Bed room");
+        Light light = new Light("Bedroom");
         Command lightOnCommand = new LightOnCommand(light);
         Command lightOffCommand = new LightOffCommand(light);
 
