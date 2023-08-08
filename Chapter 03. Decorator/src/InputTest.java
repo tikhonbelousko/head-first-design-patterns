@@ -11,7 +11,7 @@ public class InputTest {
             InputStream in =
                     new LowerCaseInputStream(
                             new BufferedInputStream(
-                                    new FileInputStream("src/test.txt")
+                                    new FileInputStream("Chapter 03. Decorator/src/test.txt")
                             )
                     );
 
