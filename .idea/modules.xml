@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/Chapter 04.2 Abstract Factory/Chapter 04.2 Abstract Factory.iml" filepath="$PROJECT_DIR$/Chapter 04.2 Abstract Factory/Chapter 04.2 Abstract Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter 05. Singleton/Chapter 05. Singleton.iml" filepath="$PROJECT_DIR$/Chapter 05. Singleton/Chapter 05. Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter 06. Command/Chapter 06. Command.iml" filepath="$PROJECT_DIR$/Chapter 06. Command/Chapter 06. Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 07.1 Adapter/Chapter 07.1 Adapter.iml" filepath="$PROJECT_DIR$/Chapter 07.1 Adapter/Chapter 07.1 Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 07.2 Facade/Chapter 07.2 Facade.iml" filepath="$PROJECT_DIR$/Chapter 07.2 Facade/Chapter 07.2 Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Head First Design Patterns.iml" filepath="$PROJECT_DIR$/Head First Design Patterns.iml" />
     </modules>
   </component>
